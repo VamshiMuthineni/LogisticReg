@@ -1,0 +1,10 @@
+train_features_file = "/Users/vamshimuthineni/Vamshi/ML/assign3/cse512hw3/Train_Features.pkl"
+train_labels_file = "/Users/vamshimuthineni/Vamshi/ML/assign3/cse512hw3/Train_Labels.csv"
+validation_features_file = "/Users/vamshimuthineni/Vamshi/ML/assign3/cse512hw3/Val_Features.pkl"
+validation_labels_file = "/Users/vamshimuthineni/Vamshi/ML/assign3/cse512hw3/Val_Labels.csv"
+batch_size = 16
+n0 = 0.1
+n1 = 2.5
+max_epoch = 5000
+delta = 0.00001
+k = 4
